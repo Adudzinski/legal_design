@@ -19,6 +19,11 @@ Zagrożeniem w tej pracy nie jest niezgrabna polszczyzna. Jest nim wersja, któr
 - dwa warunki łączne przedstawione jako alternatywne
 - wyjątek, którego zasięg się poszerzył, gdy wyciągnięto go do osobnego zdania
 - wieloznaczność rozstrzygnięta przez wybór odczytania, które łatwiej się formułowało
+- obowiązek zamieniony w prośbę (`jest obowiązany` → `prosimy`), bo brzmiało cieplej
+- pozycja wypadła z katalogu ustawowego albo krąg osób się przesunął (`inny pracownik` → `kolega z zespołu`)
+- dopisane wzmocnienie lub ocena (`zawsze`, `z empatią`), których oryginał nie miał
+
+Wszystkie trzy ostatnie wystąpiły w przeglądzie regulaminu pracy — przykłady w `wzorzec-redakcji.md`, sekcja 4.
 
 Każdy z tych błędów czyta się jak ulepszenie. Właśnie dlatego audyt musi być osobnym, świadomym etapem, a nie poczuciem pewności w trakcie pisania.
 
@@ -41,6 +46,9 @@ Dla każdej pary PRZED/PO:
 9. **Odesłania do przepisów** — `art.`, `ust.`, `pkt`, RODO, k.c., nazwane ustawy. Znak w znak?
 10. **Nowa wieloznaczność** — czy wersja nowa dopuszcza odczytanie, którego oryginał nie dopuszczał?
 11. **Numeracja** — ten sam numer, ta sama treść? Nic nie scalone, nie podzielone, nie przestawione?
+12. **Katalogi i kręgi osób** — wypisz pozycje przed i po obok siebie. Każda przetrwała, z tym samym zakresem?
+13. **Pola szablonu `{{…}}`** — każde nadal jest, raz, i wstawiona wartość pasuje gramatycznie w nowym zdaniu?
+14. **Nazwy stron i forma zwracania się** — w obrębie ustępu jedna (`my`/`Ty` albo trzecia osoba w sankcjach), bez nowych nazw strony?
 
 Wyniki zapisuj tak:
 

@@ -88,6 +88,8 @@ references/
                           # method, cross-document audit, flag triage
   context.md              # legal basis for plain language in PL/EU, readability targets,
                           # exemplar documents, risks and criticism
+  wzorzec-redakcji.md     # style learned from a lawyer's review of an employee handbook:
+                          # we/you, stance-first sentences, sanctions in 3rd person, meaning shifts to flag
 legal-design-pl.skill     # packaged version for the app
 ```
 

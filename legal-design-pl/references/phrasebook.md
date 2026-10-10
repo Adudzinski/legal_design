@@ -29,7 +29,15 @@
 | udostępnić do wglądu | pokazać / dać do przeczytania |
 | uprzednio | wcześniej |
 | stosownie do / zgodnie z treścią | zgodnie z |
-| w szczególności | między innymi — **tylko jeśli** oryginał naprawdę oznacza katalog otwarty; w innym razie zostaw, ten zwrot niesie skutek prawny |
+| w szczególności | `np.` / `na przykład` / `między innymi` — **tylko jeśli** oryginał naprawdę oznacza katalog otwarty; w innym razie zostaw, ten zwrot niesie skutek prawny. Prawnik w przeglądzie wybrał `np.` (`np. komputer, telefon czy dostęp do internetu`) |
+| jest obowiązany / zobowiązany jest [zrobić] | tryb rozkazujący (`Przestrzegaj…`) albo `masz obowiązek [zrobić]` — nigdy `prosimy` |
+| nie później niż [termin] | najpóźniej [termin] — ten sam zakres, wolno zamienić |
+| w terminie do [dnia] | do [dnia] |
+| bez względu na | niezależnie od tego |
+| zastosowanie mają przepisy | obowiązują przepisy |
+| odrębny | osobny |
+| nieodpłatnie | bezpłatnie |
+| w postaci papierowej lub elektronicznej | na papierze lub elektronicznie |
 | bądź / lub też | lub |
 | oraz / a także | i |
 | jak również | i |
@@ -119,9 +127,11 @@ Jeśli `my` i `Ty` nie są zdefiniowane, nie wprowadzaj ich po cichu. Powiedz u�
 **Tych słów nie upraszczaj** — niosą skutek prawny, a ich zamiana zmienia zakres:
 `w szczególności` (sygnalizuje katalog otwarty), `nie później niż`, `co najmniej`, `wyłącznie`, `jedynie`, `odpowiednio`, `niezwłocznie`, `rażący`, `istotny`. Upraszczaj zdanie wokół nich.
 
+**Nazwa strony po przejściu na `my`.** Gdy dokument mówi `my`, nie wprowadzaj trzeciej nazwy (`firma`, `spółka`, `zakład`) ani zamiennie małej i wielkiej litery (`pracodawca` / `Pracodawca`). Zostają dwie formy: `my` w tekście i zdefiniowany `Pracodawca` tam, gdzie potrzebna jest nazwa (§ 1, formuły o trybie ustalenia, sankcje).
+
 **Spójność jest ważniejsza od elegancji.** Jeśli `Konto` jest terminem zdefiniowanym, to każde wystąpienie brzmi `Konto` — nigdy `profil`, nigdy `konto użytkownika`, nigdy zaimek tam, gdzie mogłaby powstać wieloznaczność. Powtórzenia, które w eseju byłyby wadą stylu, w dokumencie prawnym są poprawne.
 
-**Rodzaj gramatyczny a forma `Ty`.** Formy czasu przeszłego w 2. osobie są rodzajowe (`zgodziłeś` / `zgodziłaś`). Dla szerokiego odbiorcy wybieraj konstrukcje, które to omijają: czas teraźniejszy, `Twoja zgoda`, `masz prawo`, `jeśli chcesz`. Gdy alternatywa jest nieunikniona, `zgodziłeś/zgodziłaś się` jest dopuszczalne, ale niezgrabne — lepiej przeformułować zdanie.
+**Rodzaj gramatyczny a forma `Ty`.** Formy czasu przeszłego w 2. osobie są rodzajowe (`zgodziłeś` / `zgodziłaś`). Dla szerokiego odbiorcy wybieraj konstrukcje, które to omijają: czas teraźniejszy, tryb rozkazujący, `Twoja zgoda`, `masz prawo`, `jeśli chcesz`. Gdy alternatywa jest nieunikniona, formy podwójne są dopuszczalne — prawnik w przeglądzie regulaminu pracy sam użył `przychodził(a)`, `powinieneś/powinnaś` i `koleżankę lub kolegę`. Wybierz jedną konwencję (nawias albo ukośnik) na cały dokument i powiedz użytkownikowi którą.
 
 **`Państwo` łączy się z czasownikiem w 3. osobie.** `Pisali Państwo`, nigdy `Pisaliście Państwo`. To częsty błąd w dokumentach, które w połowie zmieniają rejestr.
 

@@ -98,6 +98,8 @@ references/
                           # warunków zagnieżdżonych, audyt spójności, segregacja flag
   context.md              # podstawa prawna prostego języka w PL i UE, cele czytelności,
                           # dokumenty wzorcowe, ryzyko i krytyka
+  wzorzec-redakcji.md     # styl z przeglądu prawnego regulaminu pracy: my/Ty, zdanie
+                          # o postawie, sankcje w 3. osobie, zmiany znaczenia do flagowania
 legal-design-pl.skill     # spakowana wersja do wgrania w aplikacji
 ```
 

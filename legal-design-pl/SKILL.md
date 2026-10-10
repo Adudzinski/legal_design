@@ -24,6 +24,8 @@ Dwie decyzje wiążą każde kolejne zdanie. Zapytaj użytkownika, jeśli nie wy
 1. **Jak organizacja mówi o sobie?** Zalecane: `my` / `nas` / `nasz`. Działa to tylko wtedy, gdy słownik definicji zawiera odpowiedni wpis (`my / [Spółka] – [pełna nazwa, KRS…]`). Bez takiej definicji zostaw `Usługodawca` / `Administrator` i powiedz użytkownikowi, co zyskałby po jej dodaniu.
 2. **Jak zwracamy się do odbiorcy?** Zalecane w aplikacjach i usługach konsumenckich: `Ty` / `Ciebie` / `Twój`. Alternatywa to `Państwo` z czasownikiem w 3. osobie — pasuje do B2B i kontekstów formalnych. Wybierz jedno i nigdy nie mieszaj.
 
+W dokumencie wydawanym przez jedną stronę dla wielu osób (regulamin pracy, regulamin wewnętrzny, polityka dla pracowników) proponuj `my` / `Ty` od razu. Zamiast osobnej definicji `my` wystarczy zdanie w § 1, które i tak nazywa wydawcę: `Wydał go [oznaczenie] (dalej: „Pracodawca”). […] Ustaliliśmy go…`. Tak zrobił prawnik w przeglądzie regulaminu pracy — szczegóły w `references/wzorzec-redakcji.md`. Wyjątek: przepisy o karach i sankcjach zostają w trzeciej osobie (`pracodawca może udzielić pracownikowi upomnienia`), żeby nie brzmiały jak oskarżenie czytelnika.
+
 Zdefiniowanie `my` i `Ty` usuwa więcej kancelaryzmów niż wszystkie pozostałe techniki razem wzięte, bo rozpuszcza konstrukcje bierne, które polszczyzna prawnicza buduje wokół abstrakcyjnych nazw stron.
 
 Zbierz też przed startem listę **terminów zdefiniowanych** (z `§ definicje`). Trzeba je odtwarzać dosłownie i nigdy nie zamieniać na synonimy — nawet prostsze.
@@ -46,6 +48,14 @@ Stosuj po kolei. Pełną listę zamian i przykłady znajdziesz w `references/phr
 
 **Zamień kancelaryzmy.** `niniejszy` → `ten`; `w związku z powyższym` → `dlatego`; `z uwagi na fakt, iż` → `ponieważ`; `w przypadku gdy` → `jeśli`. Pełna lista w `references/phrasebook.md`. Unikaj łaciny. Rozwijaj skróty nieprawnicze (`m.in.`, `tj.`, `ww.`).
 
+**Styl potwierdzony w przeglądzie prawnym.** Przykłady i uzasadnienie: `references/wzorzec-redakcji.md`.
+- Rozdział o ochronie albo zasadzie otwórz krótkim zdaniem o postawie: `Nie dyskryminujemy w pracy.` `Przeciwdziałamy mobbingowi.` Zdanie streszcza ustęp, nie dodaje obowiązku.
+- Warunek stawiaj na początku, z `Jeśli`: `Jeśli wolisz odebrać wynagrodzenie osobiście, złóż wniosek…`
+- Obowiązek czytelnika mów wprost — trybem rozkazującym (`Przestrzegaj`, `Dbaj`) albo `masz obowiązek`. Nigdy `prosimy`: prośba to słabsza modalność niż obowiązek.
+- Przy kontakcie i pomocy: pytanie, potem polecenie — `Masz pytania dotyczące BHP? Skontaktuj się z: …`
+- Katalog otwarty (`w szczególności`) pokazuj przykładami: `np. komputer, telefon czy dostęp do internetu`.
+- Jedno pole szablonu `{{…}}` — jedno zdanie. Wartość po dwukropku albo w miejscu, gdzie pasuje gramatycznie bez względu na to, co ktoś wpisze.
+
 **Nagłówki mogą stać się pytaniami.** `Przetwarzanie danych` → `Jakie dane zbieramy?` To jedyna zmiana strukturalna dozwolona domyślnie.
 
 ## Krok 3 — Sprawdź znaczenie, zanim oddasz wynik
@@ -62,6 +72,9 @@ Najważniejsze kontrole, bo to tam znaczenie realnie się wymyka:
 - **Odesłania do przepisów** — znak w znak.
 - **Terminy zdefiniowane** — bez parafrazy.
 - **Nowa wieloznaczność** — czy wersja nowa dopuszcza odczytanie, którego oryginał nie dopuszczał?
+- **Katalogi i kręgi osób** — gdy przepis wylicza (przejawy mobbingu, możliwych sprawców, podstawy zatrudnienia), każda pozycja musi przetrwać z tym samym zakresem. `inny pracownik` ≠ `kolega z zespołu`; `stosunek pracy` ≠ `umowa o pracę`.
+- **Dopisane wzmocnienia i oceny** — `zawsze`, `z wyprzedzeniem`, `z empatią`, `spokojnie` to treść, nie styl. Jeśli nie ma ich w oryginale, nie ma ich w wersji nowej.
+- **Czas gramatyczny** — formuła stwierdzająca fakt z przeszłości (`regulamin ustalił Pracodawca`) zostaje w czasie przeszłym.
 
 ## Krok 4 — Podaj poziom czytelności
 
@@ -109,8 +122,17 @@ Przy kilku dokumentach pracuj po jednym, ale skończ wszystkie. Prowadź widoczn
 
 Gdy wszystkie dokumenty są gotowe, wykonaj audyt spójności międzydokumentowej z `references/audit.md`. Sprzeczności między dokumentami (regulamin mówi o 14 dniach, a ekran zgody o 30; opis prywatności w sklepie nie zgadza się z polityką prywatności) to ryzyka prawne i trzeba je raportować osobno od niespójności stylistycznych.
 
+## Wdrażanie cudzych poprawek
+
+Gdy dostajesz poprawki od kogoś innego (np. z przeglądu prawnego) do wniesienia do dokumentu, nie wnoś ich hurtem. Rozdziel je na trzy listy i pokaż użytkownikowi:
+
+1. **zmiany stylu** — do wdrożenia po akceptacji;
+2. **zmiany znaczenia** — każda osobno, z cytatem PRZED/PO i jednym zdaniem, co się zmienia; decyzja należy do użytkownika i prawnika, nawet jeśli autorem poprawki jest prawnik;
+3. **usterki maszynopisu** (podwójne spacje, brakujący wyraz lub przecinek, brak kropki) — do poprawy bez zmiany treści, ale też za zgodą.
+
 ## Pliki pomocnicze
 
 - `references/phrasebook.md` — pełna lista zamian kancelaryzmów, przykłady przed/po, pułapki właściwe dla polszczyzny
 - `references/audit.md` — lista kontrolna zachowania znaczenia, audyt spójności między dokumentami, segregacja flag
+- `references/wzorzec-redakcji.md` — styl z przeglądu prawnego regulaminu pracy: `my`/`Ty`, zdanie o postawie, `Jeśli` na początku, sankcje w trzeciej osobie, słownik zamian i lista zmian znaczenia, których nie naśladować. Czytaj przy każdym regulaminie i dokumencie dla pracowników.
 - `references/context.md` — podstawa prawna prostego języka w Polsce (RODO art. 12, art. 385 §2 k.c., DSA, EAA/B2), cele czytelności, dokumenty wzorcowe. Czytaj, gdy użytkownik pyta, *po co* to robić, musi uzasadnić pracę albo uczy tej metody.
