@@ -116,6 +116,19 @@ Tylko raportuj. Nie poprawiaj pozycji z kategorii 7 — wymagają decyzji, któr
 
 ---
 
+### Kontrole z przeglądu prawnego umów
+
+Zgłaszaj flagą, nie przebudowuj sam (szczegóły: `wzorzec-umowy.md`):
+
+- Nazwa roli albo trzecia osoba w treści umowy, która w § 1 definiuje `my` / `Wy` / `Ty` — także w klauzulach płatności, kar, odpowiedzialności i we frazach z formularza.
+- Kara, zapłata albo odpowiedzialność wobec osoby, która nie jest stroną umowy.
+- Prawo właściwe albo sąd w osobnym paragrafie zamiast w postanowieniach końcowych.
+- Paragraf albo wariant, który nie zmienia praw ani obowiązków.
+- Brak zakończenia umowy albo zakończenie niepasujące do jej typu.
+- Luka tam, gdzie strony mogą niczego nie ustalić — bez odesłania do przepisów.
+- Ta sama klauzula wyraźnie uboższa w jednym dokumencie zestawu niż w innym (tabela „element × dokument”).
+- Regulamin bez zastrzeżenia o pierwszeństwie ustaleń indywidualnych tam, gdzie mogą wystąpić.
+
 ## 6. Niezależny przegląd
 
 Jeśli sposób pracy na to pozwala, przeprowadź audyt w świeżym kontekście, który nie widział redakcji — nowa sesja albo inny model. Model sprawdzający własne zmiany ma skłonność do ich obrony; osoba bez emocjonalnego związku ze sformułowaniem znajduje pominięty kwalifikator.

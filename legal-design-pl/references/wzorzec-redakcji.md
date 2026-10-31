@@ -75,7 +75,7 @@ W polszczyźnie prawniczej czas teraźniejszy oznacza obowiązek (`Pracownik zwr
 - `Pracownik jest obowiązany przestrzegać przepisów…` → `Przestrzegaj przepisów BHP i przeciwpożarowych.`
 - `Pracownik korzysta ze sprzętu służbowego zgodnie z jego przeznaczeniem…` → `Używasz tego sprzętu zgodnie z jego przeznaczeniem…`
 
-Do obowiązków czytelnika: tryb rozkazujący (`Przestrzegaj`, `Dbaj`, `Zostaw`, `Stosuj się`) albo `masz obowiązek`. **Nie** `prosimy` — zob. sekcja 4.
+Do obowiązków czytelnika: tryb rozkazujący (`Przestrzegaj`, `Dbaj`, `Zostaw`, `Stosuj się`) albo `masz obowiązek`. We własnej redakcji **nie** zamieniaj obowiązku na `prosimy` — zob. sekcja 4. Ale gdy prawnik sam napisał prośbę (`Prosimy, żebyś przychodził(a) do pracy na czas…`), to świadomy wybór tonu — w drugim przeglądzie dopowiedział, że regulamin ma zapraszać do rozmowy, nie tylko nakazywać (`wzorzec-umowy.md`, sekcja 4). Jego brzmienia nie poprawiasz.
 
 ### 2.6 Kontakt i pomoc: pytanie, potem polecenie
 
@@ -154,7 +154,7 @@ Wszystkie poniższe prawnik zastosował sam. Gwiazdka (*) — zamiana dopuszczal
 
 ## 4. Czego nie naśladować — gdzie redakcja ruszyła znaczenie
 
-Poprawki pisane szybko, ręcznie, w przeglądarce, mają te same słabości co każda redakcja. Poniższe zjawiska **wystąpiły w tym przeglądzie**. Umiejętność ma przejąć styl, ale każde z nich we własnym tekście oznaczać flagą, a w cudzym — zgłaszać. Nie przesądzaj, że to błąd: część może być świadomą decyzją prawnika. Zgłoś i zostaw decyzję.
+Poprawki pisane szybko, ręcznie, w przeglądarce, mają te same słabości co każda redakcja. Poniższe zjawiska **wystąpiły w tym przeglądzie**. Ta lista dotyczy **Twojej** redakcji. Tekstu, który prawnik napisał sam, nie poprawiasz — jeśli widzisz w nim któreś z tych zjawisk, zadaj mu pytanie (`wzorzec-umowy.md`, sekcja 5). Umiejętność ma przejąć styl, ale każde z nich we własnym tekście oznaczać flagą, a w cudzym — zgłaszać. Nie przesądzaj, że to błąd: część może być świadomą decyzją prawnika. Zgłoś i zostaw decyzję.
 
 **Obowiązek zamieniony w prośbę.** `Pracownik jest obowiązany stawić się do pracy…` → `Prosimy, żebyś przychodził(a) do pracy…`. „Prosimy" to inna modalność niż „jest obowiązany". Ciepły ton osiągaj trybem rozkazującym i zdaniem o postawie, nie prośbą.
 

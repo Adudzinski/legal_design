@@ -100,6 +100,9 @@ references/
                           # dokumenty wzorcowe, ryzyko i krytyka
   wzorzec-redakcji.md     # styl z przeglądu prawnego regulaminu pracy: my/Ty, zdanie
                           # o postawie, sankcje w 3. osobie, zmiany znaczenia do flagowania
+  wzorzec-umowy.md        # z przeglądu prawnego umów: strony my/Wy/Ty/ja, role tylko w bloku
+                          # stron, układ (końcowe, zakończenie, zasady ogólne), tekst prawnika
+                          # jako ostateczny, uwaga prawnika jako wzorzec błędu
 legal-design-pl.skill     # spakowana wersja do wgrania w aplikacji
 ```
 

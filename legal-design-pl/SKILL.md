@@ -26,6 +26,8 @@ Dwie decyzje wiążą każde kolejne zdanie. Zapytaj użytkownika, jeśli nie wy
 
 W dokumencie wydawanym przez jedną stronę dla wielu osób (regulamin pracy, regulamin wewnętrzny, polityka dla pracowników) proponuj `my` / `Ty` od razu. Zamiast osobnej definicji `my` wystarczy zdanie w § 1, które i tak nazywa wydawcę: `Wydał go [oznaczenie] (dalej: „Pracodawca”). […] Ustaliliśmy go…`. Tak zrobił prawnik w przeglądzie regulaminu pracy — szczegóły w `references/wzorzec-redakcji.md`. Wyjątek: przepisy o karach i sankcjach zostają w trzeciej osobie (`pracodawca może udzielić pracownikowi upomnienia`), żeby nie brzmiały jak oskarżenie czytelnika.
 
+W umowie forma zależy od drugiej strony: firma lub organizacja → `Wy`, osoba fizyczna (także jednoosobowa działalność) → `Ty`; nasza strona to `my`, a gdy jest jedną osobą prywatną — `ja`. Po § 1 nazwy ról (`Klient`, `Zamawiający`, `dłużnik`, `wierzyciel`) nie wracają do treści — zostają tylko w bloku stron i przy podpisach. Prosty język to precyzja w nazywaniu stron, nie podmiana nazw. Szczegóły: `references/wzorzec-umowy.md`.
+
 Zdefiniowanie `my` i `Ty` usuwa więcej kancelaryzmów niż wszystkie pozostałe techniki razem wzięte, bo rozpuszcza konstrukcje bierne, które polszczyzna prawnicza buduje wokół abstrakcyjnych nazw stron.
 
 Zbierz też przed startem listę **terminów zdefiniowanych** (z `§ definicje`). Trzeba je odtwarzać dosłownie i nigdy nie zamieniać na synonimy — nawet prostsze.
@@ -51,7 +53,9 @@ Stosuj po kolei. Pełną listę zamian i przykłady znajdziesz w `references/phr
 **Styl potwierdzony w przeglądzie prawnym.** Przykłady i uzasadnienie: `references/wzorzec-redakcji.md`.
 - Rozdział o ochronie albo zasadzie otwórz krótkim zdaniem o postawie: `Nie dyskryminujemy w pracy.` `Przeciwdziałamy mobbingowi.` Zdanie streszcza ustęp, nie dodaje obowiązku.
 - Warunek stawiaj na początku, z `Jeśli`: `Jeśli wolisz odebrać wynagrodzenie osobiście, złóż wniosek…`
-- Obowiązek czytelnika mów wprost — trybem rozkazującym (`Przestrzegaj`, `Dbaj`) albo `masz obowiązek`. Nigdy `prosimy`: prośba to słabsza modalność niż obowiązek.
+- Obowiązek czytelnika mów wprost — trybem rozkazującym (`Przestrzegaj`, `Dbaj`) albo `masz obowiązek`. Sam nie zamieniaj obowiązku na `prosimy`: prośba to słabsza modalność. Jeśli prawnik świadomie wybrał prośbę (regulamin ma zapraszać do rozmowy, nie tylko nakazywać), to jego decyzja — nie poprawiaj jej.
+- Każde `my`, `Wy`, `Ty` musi wskazywać stronę umowy. Prawo mów od strony uprawnionego: `należy się nam kara umowna`, `przysługują nam odsetki`. Sprawdź, kto komu płaci — kara czy odpowiedzialność wobec osoby spoza umowy to błąd, nie styl.
+- Frazy doklejane z odpowiedzi i przykłady w podpowiedziach formularza piszesz w tej samej formie co umowa — trafiają do niej dosłownie.
 - Przy kontakcie i pomocy: pytanie, potem polecenie — `Masz pytania dotyczące BHP? Skontaktuj się z: …`
 - Katalog otwarty (`w szczególności`) pokazuj przykładami: `np. komputer, telefon czy dostęp do internetu`.
 - Jedno pole szablonu `{{…}}` — jedno zdanie. Wartość po dwukropku albo w miejscu, gdzie pasuje gramatycznie bez względu na to, co ktoś wpisze.
@@ -130,9 +134,12 @@ Gdy dostajesz poprawki od kogoś innego (np. z przeglądu prawnego) do wniesieni
 2. **zmiany znaczenia** — każda osobno, z cytatem PRZED/PO i jednym zdaniem, co się zmienia; decyzja należy do użytkownika i prawnika, nawet jeśli autorem poprawki jest prawnik;
 3. **usterki maszynopisu** (podwójne spacje, brakujący wyraz lub przecinek, brak kropki) — do poprawy bez zmiany treści, ale też za zgodą.
 
+Gdy poprawki prawnika są już w tekście, **jego brzmienie jest ostateczne**: nie redagujesz go stylistycznie, nawet gdy zgrzyta z wybranym stylem (`Strona` obok `my` / `Wy`) — to pytanie do niego. Jego tekst wolno kopiować dosłownie do innych dokumentów. Każdą jego uwagę traktuj jako **wzorzec błędu**: szukaj tego samego błędu w pozostałych dokumentach zestawu, ale zmieniaj tylko to, co wynika z jego uwag; własne znaleziska daj mu jako pytania. Szczegóły i lista kontrolna układu umowy (prawo i sąd w postanowieniach końcowych, zakończenie umowy, odesłanie do przepisów zamiast luki, wariant bez skutku prawnego): `references/wzorzec-umowy.md`.
+
 ## Pliki pomocnicze
 
 - `references/phrasebook.md` — pełna lista zamian kancelaryzmów, przykłady przed/po, pułapki właściwe dla polszczyzny
 - `references/audit.md` — lista kontrolna zachowania znaczenia, audyt spójności między dokumentami, segregacja flag
 - `references/wzorzec-redakcji.md` — styl z przeglądu prawnego regulaminu pracy: `my`/`Ty`, zdanie o postawie, `Jeśli` na początku, sankcje w trzeciej osobie, słownik zamian i lista zmian znaczenia, których nie naśladować. Czytaj przy każdym regulaminie i dokumencie dla pracowników.
+- `references/wzorzec-umowy.md` — z przeglądu prawnego umów: strony `my` / `Wy` / `Ty` / `ja` według typu drugiej strony, nazwy ról tylko w bloku stron, kto komu płaci, układ (prawo i sąd w końcowych, zakończenie umowy, odesłanie do przepisów zamiast luki, warianty bez skutku), ustalenia indywidualne w regulaminach, tekst prawnika jako ostateczny, uwaga prawnika jako wzorzec błędu. Czytaj przy każdej umowie i przy wdrażaniu uwag prawnika.
 - `references/context.md` — podstawa prawna prostego języka w Polsce (RODO art. 12, art. 385 §2 k.c., DSA, EAA/B2), cele czytelności, dokumenty wzorcowe. Czytaj, gdy użytkownik pyta, *po co* to robić, musi uzasadnić pracę albo uczy tej metody.

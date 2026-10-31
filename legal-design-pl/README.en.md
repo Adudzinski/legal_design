@@ -90,6 +90,9 @@ references/
                           # exemplar documents, risks and criticism
   wzorzec-redakcji.md     # style learned from a lawyer's review of an employee handbook:
                           # we/you, stance-first sentences, sanctions in 3rd person, meaning shifts to flag
+  wzorzec-umowy.md        # from a lawyer's review of contracts: we/you (plural/singular) by party type,
+                          # role names only in the party block, structure (final provisions, termination,
+                          # default rules), the lawyer's text as final, each note as an error pattern
 legal-design-pl.skill     # packaged version for the app
 ```
 
